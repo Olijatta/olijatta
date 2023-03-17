@@ -4,7 +4,7 @@
 
 
   
-  - [Windows Sentinel Home Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Azure Sentinel Home Lab](https://github.com/Olijatta/Failed-LogonLab/blob/main/README.md)
   
 
 
