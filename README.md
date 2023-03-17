@@ -4,7 +4,7 @@
 
 
   
-  - [Azure Sentinel Home Lab](https://github.com/Olijatta/Failed-LogonLab/blob/main/README.md)
+  - [Azure Cloud Detection Home Lab](https://github.com/Olijatta/Failed-LogonLab/blob/main/README.md)
   
 
 
